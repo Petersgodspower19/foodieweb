@@ -1,0 +1,20 @@
+/* 
+
+body{
+   
+    /* brightColor: "#F4511F",
+       backgroundColor: "#b7bca9",
+       lightText: "#959595" */
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  body{
+    height: 100vh;
+    overflow-x: hidden;
+  }
+  
+ 
